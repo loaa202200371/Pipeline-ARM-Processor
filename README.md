@@ -150,5 +150,3 @@ run -all
 Upon successful execution, the testbench confirms valid execution via system notes and stops at designated memory write checks.
 
 
-
-* Bassma Mohamed (202201697)
